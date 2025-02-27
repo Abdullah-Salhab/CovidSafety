@@ -1,0 +1,186 @@
+name: graduation
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_spinkit: ^5.1.0
+  splashscreen: ^1.3.5
+  numberpicker:
+  shared_preferences:
+  firebase_auth:
+  flutter_firebase_firestore:
+  cloud_firestore:
+  firebase_core:
+  firebase_database:
+  http:
+  provider:
+  awesome_dialog:
+  sharedpreference:
+  # animation
+  page_transition: ^2.0.4
+  #language
+  flutter_locales:
+  google_fonts: ^2.1.0
+  # slider percentage
+  carousel_slider: ^4.0.0
+  flutter_local_notifications:
+  # distance in map
+  geolocator:
+  google_maps_flutter:
+  # make call
+  url_launcher:
+  # brightness
+  screen:
+  percent_indicator:
+  sleek_circular_slider:
+  jiffy:
+  # icon for app
+  flutter_launcher_icons:
+  # if is connected
+  connectivity:
+  # chart
+  fl_chart:
+
+
+flutter_icons:
+  image_path: "assets/icon3.png"
+  android: true
+  ios: true
+
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/Dashboard1.png
+    - assets/Dashboard2.png
+    - assets/Dashboard3.png
+    - assets/Dashboard4.png
+    - assets/Dashboard5.png
+    - assets/Dashboard6.png
+    - assets/Dashboard7.png
+    - assets/hospital_map.png
+    - assets/current_marker.png
+    - assets/loader.gif
+    - assets/medic1.jpg
+    - assets/wear_mask.gif
+    - assets/social-dist.gif
+    - assets/safe-stay.gif
+    - assets/medic.gif
+    - assets/hand-wash.gif
+    - assets/Gloves.gif
+    - assets/locales/en.json
+    - assets/locales/ar.json
+    - assets/LogoApp2.png
+    - assets/LogoApp3.png
+    - assets/images/CS2.png
+    - assets/images/Daily_Cover.png
+    - assets/images/Thermometer.png
+    - assets/images/oximeter.png
+    - assets/images/breathing.png
+    - assets/images/cough.png
+    - assets/images/fatigue and tiredness.png
+    - assets/images/Bluish.png
+    - assets/images/chest.png
+    - assets/images/blood.png
+    - assets/images/part of your body.png
+    - assets/images/collapse.png
+    - assets/images/diarrhea.png
+    - assets/images/peeing.png
+    - assets/images/motionOrSpeaking.png
+    - assets/images/confusion.png
+    - assets/images/wake.png
+    - assets/images/safe.png
+    - assets/images/consciousness.png
+    - assets/images/medical.png
+    - assets/images/virus.png
+    - assets/images/high fever.png
+    - assets/images/cough.png
+    - assets/images/tiredness and exhaustion.png
+    - assets/images/loss of smell and taste.png
+    - assets/images/stuffy nose.png
+    - assets/images/red eyes.png
+    - assets/images/sore throat.png
+    - assets/images/headache.png
+    - assets/images/aches in muscles and joints.png
+    - assets/images/rashes.png
+    - assets/images/nauseous.png
+    - assets/images/diarrhea.png
+    - assets/images/shivering and dizziness.png
+    - assets/images/consciousness.png
+    - assets/images/shortness of breath.png
+    - assets/images/appetite.png
+    - assets/images/confusion.png
+    - assets/images/chest.png
+    - assets/noConnection.jpg
+    - assets/Dashboard2.1.png
+    - assets/Dashboard5.1.png
+    - assets/Dashboard6.1.png
+    - assets/Dashboard8.png
+
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
