@@ -93,8 +93,8 @@ If a user has severe symptoms and cannot reach the hospital, the app provides th
 
 
 ## Technologies Used
-- **Flutter**: Cross-platform framework for building the app.
+- **Dart & Flutter**: Cross-platform framework for building the app.
 - **Google Maps API**: For locating nearby hospitals.
-- **Firebase**: For user authentication, data storage, and notifications.
+- **Firebase**: For user authentication, firebase firestore, data storage, and notifications.
 - **Local Notifications**: For medication reminders.
 
