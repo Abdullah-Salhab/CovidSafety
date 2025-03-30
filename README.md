@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/940811ea-c9a8-414e-bde8-26492a3589f4)# Covid Safety App
+# Covid Safety App
 ![mobile-phone-project](https://github.com/user-attachments/assets/769af974-9884-47d0-8054-bef68d9bdf75)
 
 ## Overview
