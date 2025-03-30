@@ -39,7 +39,7 @@ The **Covid Safety** app aims to reduce the anxiety of people infected with COVI
 ### Figure 11: **Sign In & Sign Up**
 This is the intro screen where users can sign in to an existing account, sign up for a new account, take the coronavirus test, or view the FAQs.
 
-![Figure 11: Sign In & Sign Up](path/to/image11.png)
+![Figure 11: Sign In & Sign Up](https://github.com/user-attachments/assets/1655c7c6-9596-4f61-8113-600acd9c1d4f)
 
 ### Figure 12: **Dashboard**
 The dashboard is the main interface where patients can access all the app's features and services. This is the primary screen for user interaction.
